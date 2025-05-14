@@ -377,12 +377,3 @@ class EvaluationMetrics:
         plt.title(title)
         plt.show()
 
-# Example Usage (Unchanged)
-# dr = DimensionalityReduction(n_components=2)
-# X_pca = dr.pca(X)
-# metrics = EvaluationMetrics(k=5)
-# trust = metrics.trustworthiness(X, X_pca)
-# cont = metrics.continuity(X, X_pca)
-# knn_acc = metrics.knn_accuracy(X_pca, y)
-# sil_score = metrics.silhouette_score(X_pca, y)
-# metrics.visualize(X_pca, y, title="PCA Visualization")
