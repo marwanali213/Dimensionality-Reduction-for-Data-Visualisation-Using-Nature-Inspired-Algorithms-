@@ -48,10 +48,6 @@ Traditional techniques for dimensionality reduction are methods used to reduce t
 
 ---
 
-### 7. **Autoencoders** (Though these are neural-based, they're often considered when comparing dimensionality reduction)
-- **Type**: Non-linear, unsupervised
-- **Description**: Neural networks trained to reproduce the input at the output via a compressed latent representation.
-- **Use Case**: Complex, non-linear feature reduction, especially in deep learning contexts.
 
 ---
 # Evaluating and Comparing Dimensionality Reduction Techniques
