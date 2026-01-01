@@ -133,4 +133,4 @@ Evaluating dimensionality reduction techniques requires considering multiple fac
 2. **Use multiple metrics**: No single metric captures all aspects
 3. **Visualize results**: Plot reduced dimensions to gain intuition
 4. **Cross-validation**: Ensure results are consistent across data splits
-5. **Downstream task performance**: Ultimate test is how well the reduced features perform in your actual application
+5. **Downstream task performance**: Ultimate test is how well the reduced features perform in your actual application.
