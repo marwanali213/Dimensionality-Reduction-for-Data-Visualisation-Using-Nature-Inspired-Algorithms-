@@ -72,7 +72,7 @@ Evaluating dimensionality reduction techniques requires considering multiple fac
 ### 4. **Computational Efficiency**
 - **Training Time**: Time required to fit the model
 - **Transformation Time**: Time required to transform new data
-- **Memory Usage**: RAM required during computation
+- **Memory Usage**: RAM required during computation.
 
 ## Comparison Framework
 
