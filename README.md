@@ -2,7 +2,7 @@
 
 ### *Draft for me*
 
-Traditional techniques for dimensionality reduction are methods used to reduce the number of input variables (or features) in a dataset while preserving as much information as possible. Here are some of the most commonly used traditional techniques:
+Traditional techniques for dimensionality reduction are methods used to reduce the number of input variables (or features) in a dataset while preserving as much information as possible. Here are some of the most commonly used traditional techniques
 
 ---
 
